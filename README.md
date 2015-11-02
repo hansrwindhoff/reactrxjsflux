@@ -1,3 +1,12 @@
+# to run
+ npm i webpack serve -g
+ npm i
+ webpack webpack.config.js
+ serve
+ --> localhost:3000
+
+
+
 # dynamic-width-filtering-sorting-scroll-table-with-data-loading
 
 This branch is in turn based off of https://github.com/justinwoo/react-rxjs-flow/tree/dynamic-width-scroll-table, and has more featuers and still ends up combining the multiple features together by combining relevant streams.
